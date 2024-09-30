@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+	<alumno nia="11111111">
+		<nombre>Samuel</nombre>
+		<apellido1>Enguix</apellido1>
+		<apellido2>Carbó</apellido2>
+	</alumno>
+	<alumno nia="22222222">
+		<nombre>Josep</nombre>
+		<apellido1>Vila</apellido1>
+		<apellido2>Núñez</apellido2>
+	</alumno>
+	<alumno nia="33333333">
+		<nombre>Carlos</nombre>
+		<apellido1>García</apellido1>
+		<apellido2>Mollá</apellido2>
+	</alumno>
+	<alumno nia="44444444">
+		<nombre>Lorena</nombre>
+		<apellido1>Pardo</apellido1>
+		<apellido2>Micó</apellido2>
+	</alumno>
+	<alumno nia="55555555">
+		<nombre>Mohamed</nombre>
+		<apellido1>Amri</apellido1>
+	</alumno>
+</alumnos>
