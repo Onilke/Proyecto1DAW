@@ -24,4 +24,8 @@
 		<nombre>Mohamed</nombre>
 		<apellido1>Amri</apellido1>
 	</alumno>
+	<alumno nia="66666666">
+		<nombre>pepe</nombre>
+		<apellido1>pepingo</apellido1>
+	</alumno>
 </alumnos>
